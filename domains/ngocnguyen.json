@@ -1,0 +1,11 @@
+{
+  "description": "Ngoc Nguyen Portfolio",
+  "repo": "https://github.com/LeThiNgocNguyen/portfolio",
+  "owner": {
+    "username": "LeThiNgocNguyen",
+    "email": "nguyen104980@donga.edu."
+  },
+  "record": {
+    "CNAME": "portfolio-lethingocnguyen.vercel.app"
+  }
+}

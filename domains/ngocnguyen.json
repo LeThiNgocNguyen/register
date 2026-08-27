@@ -3,9 +3,9 @@
   "repo": "https://github.com/LeThiNgocNguyen/portfolio",
   "owner": {
     "username": "LeThiNgocNguyen",
-    "email": "nguyen104980@donga.edu."
+    "email": "nguyen104980@donga.edu.vn"
   },
-  "record": {
+  "records": {
     "CNAME": "portfolio-lethingocnguyen.vercel.app"
   }
 }
